@@ -1,9 +1,9 @@
-package styx.morse;
+package styx.anagram;
 
 import java.util.HashMap;
 
 public class Data {
-    public static final HashMap<String, String> En =
+    public static final HashMap<String, String> Words =
             new HashMap<String, String>() {{
             }};
 }
